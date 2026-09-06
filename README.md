@@ -9,4 +9,4 @@ My name is Marika Rahikainen. I'm a student at LAB University of Applied science
 - 💬 Ask me about ...
 - 📫 How to reach me: email
 - 😄 Pronouns: she/they
-- ⚡ Fun fact:
+- ⚡ Fun fact: I crochet, especially amigurumi!
