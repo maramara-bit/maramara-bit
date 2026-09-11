@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello there! 👋
 
-My name is Marika Rahikainen. I'm a student at LAB University of Applied sciences.
+My name is Marika Rahikainen. I'm an IIT student at LAB University of Applied sciences.
 
 - 🔭 I’m currently working  
 - 🌱 I’m currently learning the basics
