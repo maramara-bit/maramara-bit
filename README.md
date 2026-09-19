@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-My name is Marika Rahikainen. I'm an IIT student at LAB University of Applied sciences.
+My name is Marika Rahikainen and I am an IIT student at LAB University of Applied sciences. At the moment I'm interested in robotics, AI and cyber security.
 
 - 🔭 I’m currently working  
 - 🌱 I’m currently learning the basics
